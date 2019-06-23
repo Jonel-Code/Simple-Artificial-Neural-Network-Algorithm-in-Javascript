@@ -1,2 +1,5 @@
 # Simple-Artificial-Neural-Network-Algorithm-in-Javascript
-Artificial Neural Network build from scratch using Javascript
+An Artificial Neural Network build from scratch using Javascript
+
+# (Work in Progress)
+# Api Documentation
