@@ -12,6 +12,6 @@ https://developers.google.com/machine-learning/crash-course/introduction-to-neur
 # Api Documentation
 
 # TODO
-⋅⋅* Implement Different kinds of Activation Functions
-⋅⋅* Code Cleanup and Optimization
-⋅⋅* Create API Documentation
+* Implement Different kinds of Activation Functions
+* Code Cleanup and Optimization
+* Create API Documentation
